@@ -1,4 +1,4 @@
-![Data Science GIF](https://media.licdn.com/dms/image/v2/D4D22AQEs03uiN8BiXw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1727807808974?e=1733356800&v=beta&t=TzacZB26Ln_PpB_J1U7dKeiYC0UidnRvtA4IaDmkdV4)
+<img src="https://media.licdn.com/dms/image/v2/D4D22AQEs03uiN8BiXw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1727807808974?e=1733356800&v=beta&t=TzacZB26Ln_PpB_J1U7dKeiYC0UidnRvtA4IaDmkdV4" width="600" height="400" />
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
