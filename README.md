@@ -10,6 +10,8 @@
 ![Selenium](https://img.shields.io/badge/selenium-%43b02a.svg?style=for-the-badge&logo=selenium&logoColor=white) 
 ![Scrapy](https://img.shields.io/badge/scrapy-%23367c2b.svg?style=for-the-badge&logo=scrapy&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/hugging%20face-%23e03e5b.svg?style=for-the-badge&logo=hugging%20face&logoColor=yellow)
+![Streamlit](https://img.shields.io/badge/streamlit-%230db7ed.svg?style=for-the-badge&logo=streamlit&logoColor=red)
+
 
 
 # 📊 GitHub Stats:
