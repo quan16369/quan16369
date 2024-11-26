@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I enjoy solving complex problems through coding and love exploring new technologies in AI!
 
 ## 📬 How to reach me:
-- 📧 Email: [ndmqan16@gmail.com](mailto:your.email@example.com)
+- 📧 Email: [ndmqan16@gmail.com](mailto:ndmqan16@gmail.com)
 - 🔗 LinkedIn: [Your LinkedIn Profile]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/quan-nguy%E1%BB%85n-40a84b25b/))
 - 📘 Facebook: [Your Facebook Profile]([https://www.facebook.com/yourprofile](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/nog0106/))
 
