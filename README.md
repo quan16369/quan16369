@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I enjoy solving complex problems through coding and love exploring new technologies in AI!
 
 ## 📬 How to reach me:
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+- 📧 Email: [ndmqan16@gmail.com](mailto:your.email@example.com)
 - 🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
 - 🐦 Twitter: [@yourTwitterHandle](https://twitter.com/yourTwitterHandle)
 
