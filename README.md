@@ -1,12 +1,12 @@
 <img src="https://media.licdn.com/dms/image/v2/D5622AQEuJRupUKDXhQ/feedshare-shrink_800/feedshare-shrink_800/0/1681461064137?e=1734566400&v=beta&t=71JqkLOMLlLhL-X1CCgIX_r8qpoc027pGVzndSi5DNc" alt="Demo" />
 
-## 💫 About Me:
+# 💫 About Me:
 - 🔭 I’m currently a student at UIT, learning about Data and AI.
 - 🌱 I’m currently learning about machine learning, deep learning, data analysis, and exploring **new AI frameworks**.
 - 💬 Ask me about data science, machine learning, and AI.
 - ⚡ Fun fact: I enjoy solving complex problems through coding and love exploring new technologies in AI!
 
-## 📬 How to reach me:
+# 📬 How to reach me:
 - 📧 Email: [ndmqan16@gmail.com](mailto:ndmqan16@gmail.com)
 - 🔗 LinkedIn: [Quan Nguyễn](https://www.linkedin.com/in/quan-nguy%E1%BB%85n-40a84b25b/)
 - 📘 Facebook: [Quan Nguyễn](https://www.facebook.com/nog0106/)
