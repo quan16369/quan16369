@@ -1,13 +1,15 @@
 <img src="https://media.licdn.com/dms/image/v2/D5622AQEuJRupUKDXhQ/feedshare-shrink_800/feedshare-shrink_800/0/1681461064137?e=1734566400&v=beta&t=71JqkLOMLlLhL-X1CCgIX_r8qpoc027pGVzndSi5DNc" alt="Demo" />
 
 ## 💫 About Me:
-- 🔭 I’m currently working on **Data Science & AI projects**, specifically focusing on **Machine Learning** and **Natural Language Processing (NLP)**.
-- 👯 I’m looking to collaborate on **AI-based applications** or **data-driven projects**.
-- 🤝 I’m looking for help with **hyperparameter tuning** in machine learning models and **fine-tuning language models**.
-- 🌱 I’m currently learning **deep learning techniques**, **model optimization**, and exploring **new AI frameworks**.
-- 💬 Ask me about **AI/ML model development**, **data analysis**, and **AI applications** in various domains.
+- 🔭 I’m currently a student at UIT, learning about Data and AI.
+- 🌱 I’m currently learning about machine learning, deep learning, data analysis, and exploring **new AI frameworks**.
+- 💬 Ask me about data science, machine learning, and AI.
 - ⚡ Fun fact: I enjoy solving complex problems through coding and love exploring new technologies in AI!
 
+## 📬 How to reach me:
+- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+- 🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- 🐦 Twitter: [@yourTwitterHandle](https://twitter.com/yourTwitterHandle)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/nog0106/) 
