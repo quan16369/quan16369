@@ -8,7 +8,7 @@
 
 ## 📬 How to reach me:
 - 📧 Email: [ndmqan16@gmail.com](mailto:ndmqan16@gmail.com)
-- 🔗 LinkedIn: [Quan Nguyễn]([[https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/quan-nguy%E1%BB%85n-40a84b25b/)](https://www.linkedin.com/in/quan-nguy%E1%BB%85n-40a84b25b/))
+- 🔗 LinkedIn: [Quan Nguyễn](https://www.linkedin.com/in/quan-nguy%E1%BB%85n-40a84b25b/)
 - 📘 Facebook: [Quan Nguyễn](https://www.facebook.com/nog0106/)
 
 # 💻 Tech Stack:
