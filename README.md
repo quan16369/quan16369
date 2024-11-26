@@ -3,7 +3,6 @@
 # 💫 About Me:
 - 🔭 I’m currently a student at UIT, learning about Data and AI.
 - 🌱 I’m currently learning about machine learning, deep learning, data analysis, and exploring **new AI frameworks**.
-- 💬 Ask me about data science, machine learning, and AI.
 - ⚡ Fun fact: I enjoy solving complex problems through coding and love exploring new technologies in AI!
 
 # 📬 How to reach me:
