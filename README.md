@@ -1,6 +1,12 @@
 <img src="https://media.licdn.com/dms/image/v2/D5622AQEuJRupUKDXhQ/feedshare-shrink_800/feedshare-shrink_800/0/1681461064137?e=1734566400&v=beta&t=71JqkLOMLlLhL-X1CCgIX_r8qpoc027pGVzndSi5DNc" alt="Demo" />
 
-💫 About Me:🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+## 💫 About Me:
+- 🔭 I’m currently working on **Data Science & AI projects**, specifically focusing on **Machine Learning** and **Natural Language Processing (NLP)**.
+- 👯 I’m looking to collaborate on **AI-based applications** or **data-driven projects**.
+- 🤝 I’m looking for help with **hyperparameter tuning** in machine learning models and **fine-tuning language models**.
+- 🌱 I’m currently learning **deep learning techniques**, **model optimization**, and exploring **new AI frameworks**.
+- 💬 Ask me about **AI/ML model development**, **data analysis**, and **AI applications** in various domains.
+- ⚡ Fun fact: I enjoy solving complex problems through coding and love exploring new technologies in AI!
 
 
 ## 🌐 Socials:
