@@ -1,4 +1,3 @@
-<img src="https://media.licdn.com/dms/image/v2/D5622AQEuJRupUKDXhQ/feedshare-shrink_800/feedshare-shrink_800/0/1681461064137?e=1734566400&v=beta&t=71JqkLOMLlLhL-X1CCgIX_r8qpoc027pGVzndSi5DNc" alt="Demo" />
 
 # 💫 About Me:
 - 🔭 I’m currently a student at UIT, learning about Data and AI.
