@@ -2,7 +2,7 @@
 # 💫 About Me:
 - 🔭 I’m currently a student at UIT, learning about Data and AI.
 - 🌱 I’m currently learning about machine learning, deep learning, data analysis, and exploring **new AI frameworks**.
-- ⚡ Fun fact: I enjoy solving complex problems through coding and love exploring new technologies in AI!
+- 📍 My goal is to become a Full Stack Data Scientist, leveraging my skills in programming, data analysis, machine learning, and cloud technologies to develop innovative solutions and drive data-driven decision-making.
 
 # 📬 How to reach me:
 - 📧 Email: [ndmqan16@gmail.com](mailto:ndmqan16@gmail.com)
