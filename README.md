@@ -16,12 +16,6 @@
 ![Streamlit](https://img.shields.io/badge/streamlit-%230db7ed.svg?style=for-the-badge&logo=streamlit&logoColor=red)
 
 ### ✍️ Dev Quote
+> 💡 If it ain't broke, don't fix it.
 
-<div align="center">
-
-<blockquote>
-If it ain't broke, don't fix it.
-</blockquote>
-
-</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
