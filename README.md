@@ -16,7 +16,7 @@
 ![Streamlit](https://img.shields.io/badge/streamlit-%230db7ed.svg?style=for-the-badge&logo=streamlit&logoColor=red)
 
 ### ✍️ Dev Quote
-## 💡 If it ain't broke, don't fix it.
+## 💡 Be poor if you must — but never in knowledge.
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
